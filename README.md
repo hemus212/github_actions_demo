@@ -1,1 +1,4 @@
-This is sample project for to understand git and git hub actions - pushed from vscode
+### github_action_demo
+This repo is created for the demonstration of GitHub Actions.
+Connecting local repo with GitHub repo and working with VS Code Linux
+terminal.
